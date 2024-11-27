@@ -3,7 +3,9 @@
 Welcome to the Scientific Computing Class Homework Repository! This repository contains assignments, projects, and additional materials for my coursework in scientific computing.
 
 📚 Course Overview
+
 This repository contains my assignments and projects from a survey of numerical techniques for differential equations. The course focuses on implementing numerical schemes to solve application problems in science and engineering. Key topics include:
+
 
 Ordinary Differential Equations (ODEs):
 Initial Value Problems
