@@ -15,3 +15,12 @@ Finite Difference Methods
 Finite Element Methods
 Spectral Methods
 Programming is an integral part of this course, and I utilize [Python/MATLAB] for implementing the numerical methods.
+
+🔧 Tools and Libraries
+The programming environment and tools used in this repository include:
+
+Python with libraries such as:
+numpy for numerical computations
+matplotlib for visualizations
+scipy for advanced numerical methods
+scikit for finite element and advanced PDE solvers.
