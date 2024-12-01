@@ -8,12 +8,19 @@ This repository contains my assignments and projects from a survey of numerical 
 
 
 Ordinary Differential Equations (ODEs):
+
 Initial Value Problems
+
 Second-Order Boundary Value Problems
+
 Partial Differential Equations (PDEs):
+
 Finite Difference Methods
+
 Finite Element Methods
+
 Spectral Methods
+
 Programming is an integral part of this course, and I utilize Python for implementing the numerical methods.
 
 🔧 Tools and Libraries
