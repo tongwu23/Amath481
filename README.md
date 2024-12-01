@@ -14,7 +14,7 @@ Partial Differential Equations (PDEs):
 Finite Difference Methods
 Finite Element Methods
 Spectral Methods
-Programming is an integral part of this course, and I utilize [Python/MATLAB] for implementing the numerical methods.
+Programming is an integral part of this course, and I utilize Python for implementing the numerical methods.
 
 🔧 Tools and Libraries
 The programming environment and tools used in this repository include:
