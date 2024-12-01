@@ -2,18 +2,18 @@
 
 Welcome to the Scientific Computing Class Homework Repository! This repository contains assignments, projects, and additional materials for my coursework in scientific computing.
 
-📚 Course Overview
+📚**Course Overview**
 
 This repository contains my assignments and projects from a survey of numerical techniques for differential equations. The course focuses on implementing numerical schemes to solve application problems in science and engineering. Key topics include:
 
 
-Ordinary Differential Equations (ODEs):
+**Ordinary Differential Equations (ODEs)**:
 
 Initial Value Problems
 
 Second-Order Boundary Value Problems
 
-Partial Differential Equations (PDEs):
+**Partial Differential Equations (PDEs)**:
 
 Finite Difference Methods
 
@@ -23,15 +23,15 @@ Spectral Methods
 
 Programming is an integral part of this course, and I utilize Python for implementing the numerical methods.
 
-🔧 Tools and Libraries
+🔧 **Tools and Libraries**
 The programming environment and tools used in this repository include:
 
 Python with libraries such as:
 
-numpy for numerical computations
+NumPy for numerical computations
 
-matplotlib for visualizations
+Matplotlib for visualizations
 
-scipy for advanced numerical methods
+Scipy for advanced numerical methods
 
-scikit for finite element and advanced PDE solvers.
+Scikit for finite element and advanced PDE solvers.
