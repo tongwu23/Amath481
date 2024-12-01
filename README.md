@@ -20,6 +20,7 @@ Programming is an integral part of this course, and I utilize [Python/MATLAB] fo
 The programming environment and tools used in this repository include:
 
 Python with libraries such as:
+
 numpy for numerical computations
 
 matplotlib for visualizations
